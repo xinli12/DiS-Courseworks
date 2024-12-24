@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+tqdm
+iminuit
+numba-stats
+resample
+sweights

@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+tqdm
+optuna
+plotly
+h5py

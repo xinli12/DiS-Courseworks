@@ -1,0 +1,15 @@
+{
+    "best_hyperparameters": {
+        "n_layers": 4,
+        "dropout_rate": 0.17753778267309397,
+        "learning_rate": 0.00040593004933114283,
+        "l2_reg": 1e-06,
+        "activation": "elu",
+        "units_l0": 567,
+        "units_l1": 215,
+        "units_l2": 208,
+        "units_l3": 823
+    },
+    "test_accuracy": 0.9484000205993652,
+    "test_loss": 0.24519918859004974
+}
