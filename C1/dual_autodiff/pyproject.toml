@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dual_autodiff"
+version = "0.0.1"
+description = "A Python package for dual number automatic differentiation"
+authors = [
+    { name="Xin Li", email="xl628@cam.ac.uk" }
+]
+readme = "README.md"
+keywords = ["automatic differentiation", "dual numbers"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = []
+
+[tool.pytest.ini_options]
+addopts = "-v --cov=dual_autodiff --cov-report term-missing" # coverage report
+testpaths = ["tests"]
+python_files = "test_*.py"

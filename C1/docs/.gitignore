@@ -1,0 +1,26 @@
+# Sphinx build directory
+# build/
+_build/
+
+# Generated documentation
+_autosummary/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+venv/
+env/

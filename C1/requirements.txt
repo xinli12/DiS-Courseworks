@@ -1,0 +1,24 @@
+# Core Dependencies
+python>=3.10
+Cython
+
+# Build Dependencies
+setuptools
+wheel
+
+# Testing Dependencies
+pytest
+pytest-cov
+
+# Documentation Dependencies
+sphinx
+nbsphinx
+sphinx-rtd-theme
+
+# Optional Dependencies - Notebooks and Visualization
+ipython
+jupyter
+numpy
+pandas
+matplotlib
+seaborn

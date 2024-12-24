@@ -1,0 +1,19 @@
+# Pycache
+__pycache__/
+
+# Python bytecode
+*.py[cod]
+
+# Egg info
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# Pytest
+.pytest_cache/
+.coverage
