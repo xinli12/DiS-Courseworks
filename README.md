@@ -1,11 +1,11 @@
 # DiS-Courseworks
-A collection of coursework assignments from my MPhil in Data Intensive Science programme. This repository will be regularly updated as the course progresses.
+A collection of coursework assignments from MPhil in Data Intensive Science (first term). 
 
 ## Contents
 1. **S1 - Statistical Methods**
 2. **M1 - Machine Learning**
 3. **C1 - Research Computing and Software Development**
-4. **... More updates to come!**
+
 
 ## How to Use
 Feel free to browse through the repository. Each coursework folder contains:
@@ -13,4 +13,3 @@ Feel free to browse through the repository. Each coursework folder contains:
 - Solution files, including code, scripts, and other relevant materials
 
 Please do not use the materials herein for plagiarism or academic dishonesty.
-
